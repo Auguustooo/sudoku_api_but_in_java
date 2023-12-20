@@ -50,4 +50,4 @@ jobs:
           app-name: 'sudokuv2'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D26DCC1AF1E49578D11AF7B75E116C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_446051911AE84891BF9E2763E9A330C9 }}
